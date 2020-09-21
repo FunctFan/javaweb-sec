@@ -16,7 +16,10 @@
     <modules>
         <module>javase</module>
         <module>javasec-agent</module>
-        <module>javaweb-sec-utils</module>
+        <module>javasec-utils</module>
+        <module>javasec-osgi</module>
+        <module>javasec-bincat</module>
+        <module>javasec-test</module>
     </modules>
 
 </project>
